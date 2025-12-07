@@ -15,9 +15,23 @@
 
 ---
 
+
 <div align="center">
-<video src="example.mp4" controls width="600"></video>
+
+## 🎥 Видеодемонстрация
+
+<iframe 
+    width="600" 
+    height="400" 
+    src="https://www.youtube.com/embed/luyDMRk4fhI" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
 </div>
+
 
 
 ---
@@ -47,6 +61,7 @@
 > Автор не несёт ответственности за неправомерное применение.
 
 ---
+
 
 
 
