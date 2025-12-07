@@ -15,9 +15,10 @@
 
 ---
 
-<video src="example.mp4" controls width="600">
-  Ваш браузер не поддерживает встроенные видео.
-</video>
+<div align="center">
+<video src="example.mp4" controls width="600"></video>
+</div>
+
 
 ---
 
@@ -46,5 +47,6 @@
 > Автор не несёт ответственности за неправомерное применение.
 
 ---
+
 
 
