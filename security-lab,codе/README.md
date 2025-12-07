@@ -20,15 +20,7 @@
 
 ## 🎥 Видеодемонстрация
 
-<iframe 
-    width="600" 
-    height="400" 
-    src="https://www.youtube.com/embed/luyDMRk4fhI" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-</iframe>
+https://github.com/user-attachments/assets/e4f75ef4-9339-48fe-9bbf-8c5f7d9eb3fa
 
 </div>
 
@@ -61,6 +53,7 @@
 > Автор не несёт ответственности за неправомерное применение.
 
 ---
+
 
 
 
